@@ -1,9 +1,6 @@
 # Machine-Learning-Project-Suite
 # 📈 Comprehensive Machine Learning Projects Documentation
 
-Author: Alisha Fatima
-Email: aaafiyasab@gmail.com
-Code Link: https://colab.research.google.com/drive/1PMNwxBkSnmrOGCFUhhF9fRsCtJH3Trpy?usp=sharing
 
 This document presents **four well-structured machine learning projects**:
 
